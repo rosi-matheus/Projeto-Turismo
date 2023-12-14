@@ -1,0 +1,22 @@
+D:\Projeto Turismo\bin\Debug\Projeto Turismo.exe.config
+D:\Projeto Turismo\bin\Debug\Projeto Turismo.exe
+D:\Projeto Turismo\bin\Debug\Projeto Turismo.pdb
+D:\Projeto Turismo\obj\Debug\Projeto Turismo.csproj.AssemblyReference.cache
+D:\Projeto Turismo\obj\Debug\Projeto_Turismo.Frm_tur.resources
+D:\Projeto Turismo\obj\Debug\Projeto_Turismo.Properties.Resources.resources
+D:\Projeto Turismo\obj\Debug\Projeto Turismo.csproj.GenerateResource.cache
+D:\Projeto Turismo\obj\Debug\Projeto Turismo.csproj.CoreCompileInputs.cache
+D:\Projeto Turismo\obj\Debug\Projeto Turismo.exe
+D:\Projeto Turismo\obj\Debug\Projeto Turismo.pdb
+E:\Projeto Turismo\bin\Debug\Projeto Turismo.exe.config
+E:\Projeto Turismo\bin\Debug\Projeto Turismo.exe
+E:\Projeto Turismo\bin\Debug\Projeto Turismo.pdb
+E:\Projeto Turismo\obj\Debug\Projeto_Turismo.Frm_tur.resources
+E:\Projeto Turismo\obj\Debug\Projeto_Turismo.Properties.Resources.resources
+E:\Projeto Turismo\obj\Debug\Projeto Turismo.csproj.GenerateResource.cache
+E:\Projeto Turismo\obj\Debug\Projeto Turismo.csproj.CoreCompileInputs.cache
+E:\Projeto Turismo\obj\Debug\Projeto Turismo.exe
+E:\Projeto Turismo\obj\Debug\Projeto Turismo.pdb
+D:\Projeto Turismo\obj\Debug\Projeto_Turismo.Frm_finalizar.resources
+E:\Projeto Turismo\obj\Debug\Projeto_Turismo.Frm_finalizar.resources
+E:\Projeto Turismo\obj\Debug\Projeto Turismo.csprojAssemblyReference.cache
