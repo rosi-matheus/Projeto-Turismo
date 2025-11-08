@@ -15,10 +15,8 @@ Plataforma desenvolvida para conectar viajantes com os melhores destinos turíst
 
 ### Recursos Técnicos
 - **📱 Design Responsivo** - Adaptável a todos os dispositivos
-- **⚡ Performance Otimizada** - Carregamento rápido
 - **🔒 Segurança** - Autenticação e validação de dados
 - **🌐 SEO Otimizado** - Meta tags e estrutura semântica
-- **♿ Acessibilidade** - WCAG compliance
 
 ### 👩‍💻 Desenvolvedora Full Stack
 Rosiane Aparecida da Silva
